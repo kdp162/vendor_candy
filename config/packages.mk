@@ -27,4 +27,11 @@ PRODUCT_PACKAGES += \
 # Device Personalization Services
 PRODUCT_PACKAGES += MatchmakerPrebuilt
 
+# Fonts
+PRODUCT_PACKAGES += \
+    FontArbutusSourceOverlay \
+    FontArvoLatoOverlay \
+    FontRubikRubikOverlay \
+
 -include vendor/candy/config/overlay.mk
+
