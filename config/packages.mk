@@ -8,7 +8,8 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     messaging \
     ThemePicker \
-    Updater
+    Updater\
+    WeatherClient
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
